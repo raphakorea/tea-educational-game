@@ -49,3 +49,34 @@ The game was designed with accessibility and sensory comfort in mind, providing 
 
 Raphael Ribeiro  
 Computer Engineering Student
+---
+
+# 🖼 Screenshots
+
+## Main Menu
+![Main Menu](images/main-menu.png)
+
+---
+
+## Happy Emotion
+![Happy Emotion](images/emotion-happy.png)
+
+---
+
+## Sad Emotion
+![Sad Emotion](images/emotion-sad.png)
+
+---
+
+## Angry Emotion
+![Angry Emotion](images/emotion-angry.png)
+
+---
+
+## Surprised Emotion
+![Surprised Emotion](images/emotion-surprised.png)
+
+---
+
+## Final Screen
+![Final Screen](images/final-screen.png)
